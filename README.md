@@ -5,6 +5,10 @@ HTML5, CSS3, Handlebars.js, and jQuery.
 
 ## Example Usage ##
 
+<p align="center">
+  <img alt="Screencast of Photo Gallery" src="example.gif">
+</p>
+
 ## Functionality ##
 
 - View multiple photos in gallery-style
