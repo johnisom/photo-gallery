@@ -25,3 +25,12 @@ HTML5, CSS3, Handlebars.js, and jQuery.
 
 - No form validation for comments
 - You can ‘like’ and ‘favorite’ a photo multiple times without end
+
+## Installation ##
+
+1. Clone this repository (`https://github.com/photo-gallery`)
+2. `cd` into the repository (`cd photo-gallery`)
+3. Install dependencies (`npm install`)
+   - Make sure you have node and npm
+4. Run the server locally (`npm start`)
+5. Enjoy the gallery at http://localhost:3000/
